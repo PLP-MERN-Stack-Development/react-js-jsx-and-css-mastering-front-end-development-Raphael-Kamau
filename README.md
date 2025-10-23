@@ -36,12 +36,13 @@ git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mas
 cd my-react-app
 npm install
 npm run dev
-🌐 Live Demo
-Coming soon via Vercel or Netlify
 ```
+## 🌐 Live Demo
+
+
 
 ## 👨‍💻 Author
 Raphael Kamunyu Web Developer 📍 Thika, Kenya 🔗 https://github.com/Raphael-Kamau/
 
-##📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
