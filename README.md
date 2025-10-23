@@ -38,9 +38,10 @@ npm install
 npm run dev
 🌐 Live Demo
 Coming soon via Vercel or Netlify
+```
 
-👨‍💻 Author
+## 👨‍💻 Author
 Raphael Kamunyu Web Developer 📍 Thika, Kenya 🔗 https://github.com/Raphael-Kamau/
 
-📜 License
+##📜 License
 This project is open-source and available under the MIT License.
