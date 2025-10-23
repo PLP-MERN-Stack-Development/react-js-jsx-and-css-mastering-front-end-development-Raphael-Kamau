@@ -1,16 +1,46 @@
-# React + Vite
+# 🧠 React Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, theme-aware task management app built with React, Tailwind CSS, and modern hooks. Users can add, complete, delete, and filter tasks — plus explore API data with search and pagination.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add, complete, undo, and delete tasks
+- 🔍 Filter tasks: All, Active, Completed
+- 🌗 Theme toggle (light/dark) 
+- 📦 Custom `useLocalStorage` hook for task persistence
+- 📡 API integration with JSONPlaceholder (posts)
+- 🔎 Search and client-side pagination
+- 🎨 Tailwind CSS styling with responsive layout
+- ⚙️ Modular folder structure and reusable components
 
-## React Compiler
+<img width="1351" height="675" alt="image" src="https://github.com/user-attachments/assets/126ebb17-8d5e-4f75-8c20-1550d227b579" />
+  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+| Frontend       | Styling        | State & Hooks       | API & Persistence |
+|----------------|----------------|----------------------|-------------------|
+| React + Vite   | Tailwind CSS   | useState, useEffect  | JSONPlaceholder   |
+| JSX Components | Dark Mode      | useContext           | useLocalStorage   |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Folder Structure
+
+my-react-app/ ├── public/ ├── src/ │ ├── assets/ │ ├── components/ │ ├── pages/ │ ├── utils/ │ ├── App.jsx │ ├── main.jsx ├── .gitignore ├── README.md ├── tailwind.config.js ├── vite.config.js
+
+Code
+
+## 🧪 Local Setup
+
+```bash
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Raphael-Kamau.git
+cd my-react-app
+npm install
+npm run dev
+🌐 Live Demo
+Coming soon via Vercel or Netlify
+
+👨‍💻 Author
+Raphael Kamunyu Web Developer & Educator 📍 Thika, Kenya 🔗 GitHub Profile
+
+📜 License
+This project is open-source and available under the MIT License.
