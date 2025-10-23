@@ -40,7 +40,7 @@ npm run dev
 Coming soon via Vercel or Netlify
 
 👨‍💻 Author
-Raphael Kamunyu Web Developer & Educator 📍 Thika, Kenya 🔗 GitHub Profile
+Raphael Kamunyu Web Developer 📍 Thika, Kenya 🔗 https://github.com/Raphael-Kamau/
 
 📜 License
 This project is open-source and available under the MIT License.
