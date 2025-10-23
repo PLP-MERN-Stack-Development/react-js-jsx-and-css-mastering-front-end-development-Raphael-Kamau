@@ -38,7 +38,8 @@ npm install
 npm run dev
 ```
 ## 🌐 Live Demo
-
+https://task-manager-plp-assignment.netlify.app/
+<img width="1190" height="313" alt="image" src="https://github.com/user-attachments/assets/46b2b5bb-0a09-403d-8f3d-245498f3d618" />
 
 
 ## 👨‍💻 Author
